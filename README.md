@@ -1,8 +1,8 @@
 
 # PlanIT
 
-PlanIT is a project designed to help users efficiently plan and organize their tasks and schedules. Built with a combination of HTML for the frontend and Python for backend functionality, this project aims to deliver a seamless user experience for effective time management.
-[Watch the demo](./Demo.mp3)
+PlanIT is a project designed to help users efficiently plan and organize their tasks and schedules. Built with a combination of HTML for the frontend and Python for backend functionality, this project aims to deliver a seamless user experience for effective time management.</br>
+[See PlanIT in Action](./Demo.mp3)
 
 
 ## Features
